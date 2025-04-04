@@ -1,0 +1,4 @@
+C:\Users\Duy\Downloads\techStore-main\techStore-main\obj\Debug\net6.0\techStore-main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duy\Downloads\techStore-main\techStore-main\obj\Debug\net6.0\techStore-main.AssemblyInfoInputs.cache
+C:\Users\Duy\Downloads\techStore-main\techStore-main\obj\Debug\net6.0\techStore-main.AssemblyInfo.cs
+C:\Users\Duy\Downloads\techStore-main\techStore-main\obj\Debug\net6.0\techStore-main.csproj.CoreCompileInputs.cache

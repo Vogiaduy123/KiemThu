@@ -1,0 +1,14 @@
+C:\Users\Duy\Downloads\techStore-main\techStore-main\bin\Debug\net7.0\techStore-main.exe
+C:\Users\Duy\Downloads\techStore-main\techStore-main\bin\Debug\net7.0\techStore-main.deps.json
+C:\Users\Duy\Downloads\techStore-main\techStore-main\bin\Debug\net7.0\techStore-main.runtimeconfig.json
+C:\Users\Duy\Downloads\techStore-main\techStore-main\bin\Debug\net7.0\techStore-main.dll
+C:\Users\Duy\Downloads\techStore-main\techStore-main\bin\Debug\net7.0\techStore-main.pdb
+C:\Users\Duy\Downloads\techStore-main\techStore-main\obj\Debug\net7.0\techStore-main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duy\Downloads\techStore-main\techStore-main\obj\Debug\net7.0\techStore-main.AssemblyInfoInputs.cache
+C:\Users\Duy\Downloads\techStore-main\techStore-main\obj\Debug\net7.0\techStore-main.AssemblyInfo.cs
+C:\Users\Duy\Downloads\techStore-main\techStore-main\obj\Debug\net7.0\techStore-main.csproj.CoreCompileInputs.cache
+C:\Users\Duy\Downloads\techStore-main\techStore-main\obj\Debug\net7.0\techStore-main.dll
+C:\Users\Duy\Downloads\techStore-main\techStore-main\obj\Debug\net7.0\refint\techStore-main.dll
+C:\Users\Duy\Downloads\techStore-main\techStore-main\obj\Debug\net7.0\techStore-main.pdb
+C:\Users\Duy\Downloads\techStore-main\techStore-main\obj\Debug\net7.0\techStore-main.genruntimeconfig.cache
+C:\Users\Duy\Downloads\techStore-main\techStore-main\obj\Debug\net7.0\ref\techStore-main.dll
